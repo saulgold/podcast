@@ -1,0 +1,29 @@
+podcast.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>http://example.com</link>
+    <description>Your podcast description goes here.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Video Q⧸A -- 1⧸7⧸2025 [-96nhYD1qsE].mp3</title>
+      <link>https://drive.google.com/uc?id=1MOMVO5RW_ujLvnVRxNkmJlIq9CJ7KrTs</link>
+
+      <description>Description of Episode 1</description>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?id=1MOMVO5RW_ujLvnVRxNkmJlIq9CJ7KrTs" type="audio/mpeg" length="12345678" />
+    </item>
+
+    <item>
+      <title>Episode 2</title>
+      <link>https://drive.google.com/uc?id=1MOMVO5RW_ujLvnVRxNkmJlIq9CJ7KrTs</link>
+      <description>Description of Episode 2</description>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?id=1MOMVO5RW_ujLvnVRxNkmJlIq9CJ7KrTs" type="audio/mpeg" length="12345678" />
+    </item>
+
+  </channel>
+</rss>
+
