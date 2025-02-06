@@ -5,7 +5,6 @@
     <link>http://example.com</link>
     <description>Your podcast description goes here.</description>
     <language>en-us</language>
-https://drive.google.com/file/d/1ReEcX9Ro2xYNi4sGJqGJvJQk1-28nNVf/view?usp=sharing
 
         <item>
       <title>The Nature of personal reality part 1</title>
@@ -13,7 +12,7 @@ https://drive.google.com/file/d/1ReEcX9Ro2xYNi4sGJqGJvJQk1-28nNVf/view?usp=shari
 
       <description>Description of Episode 1</description>
       <pubDate>Wed, 06 feb 2025 00:00:00 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?id=1ReEcX9Ro2xYNi4sGJqGJvJQk1-28nNVf" type="audio/mpeg" length="12345678" />
+      <enclosure url="https://drive.google.com/uc?id=1ReEcX9Ro2xYNi4sGJqGJvJQk1-28nNVf" type="audio/mpeg" length="9999999" />
     </item>
     <item>
       <title>Video Q⧸A -- 1⧸7⧸2025 [-96nhYD1qsE].mp3</title>
